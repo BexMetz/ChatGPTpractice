@@ -1,4 +1,5 @@
-selling and drop shipping neon signs and sculptures. Ask me 5 questions about my idea and initial concept and then based on that feedback, write the approach.
+User
+I need you to write a summary of an approach to creating a website and application for selling and drop shipping neon signs and sculptures. Ask me 5 questions about my idea and initial concept and then based on that feedback, write the approach.
 
 ChatGPT
 Certainly, let's begin with a brief summary of the approach to creating a website and application for selling and drop shipping neon signs and sculptures. Then, I'll ask you five questions to gather more information about your idea.
